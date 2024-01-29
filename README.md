@@ -6,4 +6,4 @@ This project uses p5.js to create a digital art piece with a 4x4 grid that rando
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Duds/EDTAS.git
